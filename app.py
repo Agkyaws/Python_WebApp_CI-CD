@@ -102,7 +102,7 @@ html_template = """
 </head>
 <body>
     <div class="container">
-        <h1>Python Users List</h1>
+        <h1>Python Users List!</h1>
         <form action="/submit" method="post">
             <input type="text" name="first_name" placeholder="First Name" required><br>
             <input type="text" name="last_name" placeholder="Last Name" required><br>
